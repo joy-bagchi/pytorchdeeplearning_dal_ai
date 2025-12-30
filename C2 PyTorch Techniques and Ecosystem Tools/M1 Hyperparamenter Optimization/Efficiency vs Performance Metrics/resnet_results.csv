@@ -1,0 +1,6 @@
+model,depth,accuracy,model_size_mb,inference_time_ms
+ResNet18,18,0.92,42,2.0
+ResNet34,34,0.93,81,3.8
+ResNet50,50,0.94,98,5.0
+ResNet101,101,0.95,168,8.0
+ResNet152,152,0.96,230,12.0

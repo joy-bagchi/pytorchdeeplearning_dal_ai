@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\C2 PyTorch Techniques and Ecosystem Tools\M1 Hyperparamenter Optimization\Efficiency vs Performance Metrics\resnet_results.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
