@@ -448,7 +448,7 @@ def exercise_3(learner_func):
 
             # region == check that the objects defined in the learner_func are created and uses the correct parameters ==
             device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-            AIvsReal_path = "./AIvsReal_sampled"
+            AIvsReal_path = "../../AIvsReal_sampled"
             expected_parameters, transform, model, params_code = (
                 unittests_utils.get_objects_during_trial(
                     learner_func, device=device, dataset_path=AIvsReal_path

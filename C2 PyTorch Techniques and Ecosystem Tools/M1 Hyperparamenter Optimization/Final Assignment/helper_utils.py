@@ -10,7 +10,7 @@ from tqdm.auto import tqdm
 
 
 
-AIvsReal_path = "./AIvsReal_sampled"
+AIvsReal_path = "../../AIvsReal_sampled"
 
 
 

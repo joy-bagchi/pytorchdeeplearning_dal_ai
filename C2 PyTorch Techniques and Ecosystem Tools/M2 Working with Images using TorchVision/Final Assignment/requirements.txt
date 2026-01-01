@@ -1,0 +1,9 @@
+dlai_grader
+numpy==2.3.2
+torch==2.7.0
+torchvision==0.22.0
+ipywidgets==8.1.2
+matplotlib==3.10.3
+torchmetrics==1.7.2
+pillow==10.2.0
+tqdm==4.67.1
