@@ -20,7 +20,7 @@ class UnitTestDataset(Dataset):
 
 
 
-def load_tokenizer(local_path="./distilbert-local-base"):
+def load_tokenizer(local_path="../distilbert-local-base"):
     """
     Loads a Hugging Face tokenizer from a local directory.
     """
@@ -35,7 +35,7 @@ class MockFullDataset:
 
 
 
-def load_bert_model(local_path="./distilbert-local-base", num_classes=2):
+def load_bert_model(local_path="../distilbert-local-base", num_classes=2):
     """
     Loads the base DistilBERT model and adds a new classification head."""
     # Use AutoModelForSequenceClassification to load the base model and add a new,
