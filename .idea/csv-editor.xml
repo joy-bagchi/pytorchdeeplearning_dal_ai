@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\C2 PyTorch Techniques and Ecosystem Tools\M3 Working with Text using Hugging Face\Final Assignment\databricks-dolly-15k-dataset\databricks-dolly_augmented.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
