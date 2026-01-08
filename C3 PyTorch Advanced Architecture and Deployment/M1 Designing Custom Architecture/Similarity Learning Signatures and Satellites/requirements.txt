@@ -1,0 +1,11 @@
+pillow==10.2.0
+torch==2.7.0
+torchvision==0.22.0
+opencv-python==4.11.0.86
+matplotlib==3.10.3
+numpy==1.26.4
+pandas==2.2.3
+seaborn==0.13.2
+scikit-learn==1.7.1
+tqdm==4.67.1
+ipywidgets==8.0.2
