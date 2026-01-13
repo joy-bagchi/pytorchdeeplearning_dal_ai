@@ -5,4 +5,7 @@
   </component>
   <component name="KubernetesApiProvider"><![CDATA[{}]]></component>
   <component name="ProjectRootManager" version="2" project-jdk-name="llm" project-jdk-type="Python SDK" />
+  <component name="TyConfiguration">
+    <option name="sdkName" value="llm" />
+  </component>
 </project>
